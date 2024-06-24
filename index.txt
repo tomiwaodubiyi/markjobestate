@@ -1,13 +1,13 @@
-Homeverse - Find your dream house
+MARKJOB REAL ESTATES - Find your dream house
 
 
 # HEADER
 
 <ion-icon name="mail-outline"></ion-icon>
-info@homeverse.com
+info@markjobestate.com
 
 <ion-icon name="location-outline"></ion-icon>
-15/A, Nest Tower, NYC
+21A Ogunsiji Street, Off Allen Avenue, Ikeja, Lagos, Nigeria
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
@@ -16,7 +16,7 @@ info@homeverse.com
 
 Add Listing
 
-alt = Homeverse logo
+alt = MARKJOB REAL ESTATES logo
 
 aria-label = Close Menu
 <ion-icon name="close-outline"></ion-icon>
@@ -253,7 +253,7 @@ Explore Properties
 
 # FOOTER
 
-alt = Homeverse logo
+alt = MARKJOB REAL ESTATES logo
 
 Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum is dummy text of the printing.
 
